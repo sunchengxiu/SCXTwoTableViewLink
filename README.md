@@ -1,0 +1,2 @@
+# SCXTwoTableViewLink
+量表联动，tableview和collectionView联动，类似于电商选择商品的那种
